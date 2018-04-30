@@ -1,0 +1,5 @@
+.type { vertical-align:super; font-size:60%; color:grey; }
+.placeholder { color: #CCC; }
+.crit { color:green; }
+.fum { color:red; }
+.total { color:grey; font-weight:bold; }
