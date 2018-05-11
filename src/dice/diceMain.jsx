@@ -41,14 +41,14 @@ const MapDispatchToProps = (dispatch) => ({
 class diceMain extends React.Component {
 
 componentDidMount(){
-  this.props.newRoll('D20+5')
+
 }
 
  render () {
    return (
      <div>
        <br/>
-       <DiceDisplay dice={}/>
+       <DiceDisplay dice={"D20+5"}/>
        {this.props.latest.res }
      </div>
    )

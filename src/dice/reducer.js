@@ -9,7 +9,7 @@
 //IMPORTS
 //*************************************
 
-import diceParser from './diceRoller'
+import diceParser from './DiceRoller'
 
 //*************************************
 //INITIALSTATE
